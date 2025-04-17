@@ -43,7 +43,10 @@ had the money to do so).
 This is, primarily, a backend project. The frontend will be developed using React in Typescript for 
 my own ease of development.
 
-Mockups of the website can be found [here]().
+The primary screens needed for the web application are pages for users to sign-up, login, upload
+images, retrieve their images, and list all of the images they have saved.
+
+Mockups of the website can be found [here](./frontend/figma-mockups/).
 
 ### Backend
 The API is going to be developed using Java and the Spring Boot framework. This is my first time
@@ -52,3 +55,8 @@ here.
 
 The backend will require users to have a valid JWT token to access the data. It will be my first
 time working on the security aspect of endpoints as well.
+
+### Testing
+Frontend tests will occur through manual testing. Meanwhile API calls will be tested in a 
+combination of manual tests using Postman and automated integration testing using Github Actions. I 
+have limited experience using Github Actions, but learning is what we're doing this for.
