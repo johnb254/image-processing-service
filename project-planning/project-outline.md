@@ -1,4 +1,12 @@
 # Project Outline
+This project is a learning tool for me to improve as a backend developer. It is based on the 
+guidelines found at [roadmap.sh](https://roadmap.sh/projects/image-processing-service), but this
+work is my own.
+
+This project involves creating a backend system for an image processing service similar to
+Cloudinary. The service will allow users to upload images, perform various transformations, and
+retrieve images. The system will feature user authentication, image upload, transformation 
+operations, and efficient retrieval mechanisms.
 
 ## Explicit Requirements
 
