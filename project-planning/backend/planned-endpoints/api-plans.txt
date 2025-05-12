@@ -1,0 +1,16 @@
+POST
+ /login
+ /images
+    body - image file
+    response - image details (URL, metadata)
+/images/:id/transform
+    transformations
+        resize
+        crop
+        rotate
+        format
+        filters
+
+GET
+/images/:id
+/images?page=x&limit=y

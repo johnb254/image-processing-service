@@ -39,7 +39,7 @@ operations, and efficient retrieval mechanisms.
 The database is going to be locally hosted using MySQL. The database could be hosted on Azure or AWS
 in a more advanced version of the project (if I had the money for the subscription).
 
-The database schema can be found [here]() and a relationship entity diagram [here]().
+The database schema can be found [here]() and a relationship entity diagram [here](./backend/entity-relationship-diagram/ERD.png).
 
 
 ### Image Storage and Retrieval
