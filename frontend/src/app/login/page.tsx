@@ -33,7 +33,7 @@ export default function LoginForm() {
 
           <input
             type="submit"
-            className="bg-gray-600 hover:bg-gray-400 text-white font-bold w-full py-2 px-4 mb-6 rounded focus:outline-none focus:shadow-outline"
+            className="bg-gray-600 hover:bg-gray-400 disabled:bg-gray-400 text-white font-bold h-12 w-full rounded focus:shadow-outline"
             value="Login"
           />
         </form>

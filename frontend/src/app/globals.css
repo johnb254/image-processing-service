@@ -29,4 +29,5 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   min-height: 100%;
   min-width: 100%;
+  overflow: auto;
 }

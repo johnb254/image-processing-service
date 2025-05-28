@@ -1,4 +1,5 @@
 POST
+ /signup
  /login
  /images
     body - image file
